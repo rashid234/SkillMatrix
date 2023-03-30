@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "thJWXyjV64nmna/K/TABqNVGV5bWcqocqWu30seDQH0=",
+  "Source": "SkillMatrix.WebApi",
+  "BasePath": "_content/SkillMatrix.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
